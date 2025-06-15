@@ -1,7 +1,7 @@
 - 👋 Hi, I’m adnan
 - 👀 I’m interested in problem solving, fixing bugs
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web projects
+- 🌱 I’m currently learning about Linux and Networking and Python
+- 💞️ I’m looking to collaborate on Python projects
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i love to solve bugs
 
